@@ -2,7 +2,9 @@
 
 This repository contains the Python code that serves as support for the following publication:
 
-"PROBABILISTIC MODELLING OF TRAFFIC DISRUPTIONS DUE TO EARTHQUAKE DAMAGE USING OPEN TOOLS AND DATA"
+"APPLICATION OF OPEN TOOLS AND DATASETS TO PROBABILISTIC MODELLING OF ROAD TRAFFIC DISRUPTIONS DUE TO EARTHQUAKE DAMAGE"
+
+https://onlinelibrary.wiley.com/doi/abs/10.1002/eqe.3288
 
 Correspondence to: Catarina Costa (catarinaqmcosta@gmail.com)
 
